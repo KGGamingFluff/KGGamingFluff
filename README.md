@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KGGamingFluff
+- 👋 Hi, I’m @Keagan-Kozlowski
 - 👀 I’m interested in Cybersecurity, Artifical Intelligence, Robotics
 - 🌱 I'm currently learning Python,PHP,JavaScript,SQL,HTML and CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ At the moment I'm now looking to collaborate on any projects
 - 📫 How to reach me ...
 
 <!---
