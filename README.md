@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KGGamingFluff
 - 👀 I’m interested in Cybersecurity, Artifical Intelligence, Robotics
-- 🌱 I’m currently learning Python
+- 🌱 I'm currently learning Python,PHP,JavaScript,SQL,HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
