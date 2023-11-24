@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keagan-Kozlowski
 - 👀 I’m interested in Cybersecurity, Artifical Intelligence, Robotics
-- 🌱 I'm currently learning Python,PHP,JavaScript,SQL,HTML and CSS
+- 🌱 I'm currently learning Python, PHP, Java, JavaScript, SQL, HTML, Node JS and CSS
 - 💞️ At the moment I'm now looking to collaborate on any projects
 - 📫 How to reach me ...
 
