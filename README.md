@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Keagan-Kozlowski
-- 👀 I’m interested in Cybersecurity, Artifical Intelligence, Robotics
-- 🌱 I'm currently learning Python, PHP, Java, JavaScript, SQL, HTML, Node JS and CSS
-- 💞️ At the moment I'm now looking to collaborate on any projects
-- 📫 How to reach me ...
+# Keagan Kozlowski
+## Software Engineer & Student
 
-<!---
-KGGamingFluff/KGGamingFluff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C#](https://img.shields.io/badge/-Csharp-000?&logo=Csharp)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies & Frameworks
+![Flet](https://img.shields.io/badge/-Flet-000?&logo=Flutter)
+![PyQt](https://img.shields.io/badge/-PyQt-000?&logo=Python)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+
+### Projects
+
+
+<a href="https://keagankozlowski.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=KeaganKozlowski&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeaganKozlowski&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
