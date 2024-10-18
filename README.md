@@ -17,6 +17,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 
